@@ -294,7 +294,7 @@ public void menu() {
 
 ---
 
-# 🎓 Conclusión Personal
+# Conclusión Personal
 
 El desarrollo de este sistema me permitió aplicar de manera práctica los principios de la Programación Orientada a Objetos. Comprendí mejor cómo estructurar clases, distribuir responsabilidades y utilizar herencia y polimorfismo correctamente.
 
